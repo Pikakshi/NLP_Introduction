@@ -13,6 +13,5 @@ James: "There, there. There, there."
 &nbsp;&nbsp;
 There are a lot of reasons not to do this. There are 101 reasons not to do it. 1000000 reasons, actually.
 I have to go get 2 tutus from 2 different stores, too.
-22    45   1067   445
 {{Here is some stuff inside of double curly braces.}}
 {Here is more stuff in single curly braces.}
